@@ -1,4 +1,4 @@
 # LearngitHub
 Learn about Github.
 <br>
-Author-Sathveeka S
+Author-Sathveeka S(Quantumsoft)
